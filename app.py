@@ -224,7 +224,7 @@ HTML_TEMPLATE = """
     <h1>Learn with Fun</h1>
     <div style="text-align:center;">
         <h4>Developed by Yaajneshini</h4>
-        <h4>Contemporary Avenues in Literary Research</h4>
+        <h4>Contemporary Avenues for Literary Research</h4>
         <b>Literature and AI</b>
         <br><br>
     </div>

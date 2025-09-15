@@ -1,0 +1,32 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite database files
+*.db
+*.sqlite3
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Pytest / Coverage
+.coverage
+htmlcov/
+.pytest_cache/
